@@ -20,7 +20,7 @@ const commands = {
 <img src="images/sql-injection.png" alt="SQL Injection" style="width:200px; border-radius:10px;"><br><br>
 
 • 5th Position in CTF (Military College of Signals – MCS)<br>
-<img src="images/ctf-mcs.jpg" alt="CTF Certificate" style="width:200px; border-radius:10px;"><br><br>
+<img src="https://github.com/Ethical2001/resume/blob/main/ctf-mcs.jpg" alt="CTF Certificate" style="width:200px; border-radius:10px;"><br><br>
 
 • Completed150+ rooms on TryHackMe<br>
 <img src="images/tryhackme.jpg" alt="TryHackMe" style="width:200px; border-radius:10px;"><br>
