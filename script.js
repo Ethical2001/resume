@@ -14,16 +14,16 @@ const commands = {
 <strong>certifications - View my certifications</strong><br><br>
 
 • CompTIA Security+ (Udemy)<br>
-<img src="images/security-plus.png" alt="CompTIA Security+" style="width:200px; border-radius:10px;"><br><br>
+<img src="https://github.com/Ethical2001/resume/blob/main/security-plus.PNG" alt="CompTIA Security+" style="width:200px; border-radius:10px;"><br><br>
 
 • SQL Injection (EC-Council)<br>
-<img src="images/sql-injection.png" alt="SQL Injection" style="width:200px; border-radius:10px;"><br><br>
+<img src="https://github.com/Ethical2001/resume/blob/main/sql-injection.png" alt="SQL Injection" style="width:200px; border-radius:10px;"><br><br>
 
 • 5th Position in CTF (Military College of Signals – MCS)<br>
 <img src="https://github.com/Ethical2001/resume/blob/main/ctf-mcs.jpg" alt="CTF Certificate" style="width:200px; border-radius:10px;"><br><br>
 
 • Completed150+ rooms on TryHackMe<br>
-<img src="images/tryhackme.jpg" alt="TryHackMe" style="width:200px; border-radius:10px;"><br>
+<img src="https://github.com/Ethical2001/resume/blob/main/tryhackme.jpg" alt="TryHackMe" style="width:200px; border-radius:10px;"><br>
 `,
 
     leadership: `\n<strong>leadership - Leadership and community involvement</strong>\n\n• Ranked 5th in Capture The Flag (CTF) competition at MCS, showcasing competitive cyber skills.\n• Regular participant in cybersecurity communities via TryHackMe and CTF events, demonstrating ongoing involvement and commitment to learning and sharing knowledge.`,
